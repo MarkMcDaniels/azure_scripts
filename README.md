@@ -1,5 +1,5 @@
 # azure_scripts
-Azure Scripts for simple tasks.
+Azure Scripts for simple tasks using Az CLI.
 
 
 
