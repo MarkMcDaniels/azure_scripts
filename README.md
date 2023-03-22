@@ -4,13 +4,13 @@ Azure Scripts for simple tasks using Az CLI.
 
 
 ### usage information ###
-It's a design decision to write them as .txt files for cut/paste raw. Should be able add a shabang! to run them as a .sh script.
+Designed for cut and paste raw. 
 
 
 
 ### scripts ###
 
-newCosmosDB.txt
+newCosmosDB.sh
       -- Creates a new cosmosdb account, and container.
       
     
